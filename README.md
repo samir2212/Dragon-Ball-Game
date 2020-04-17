@@ -11,6 +11,7 @@ The purpose of this project was to learn the basics of object-oriented software 
 ![](map.png)
 ![](battle.png)
 ![](upgrade.png)
+![](dragon_mode.png)
 # Project Partners
 • Ahmed Eid 
 
